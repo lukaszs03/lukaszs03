@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+- 🌱 I’m currently learning python
+- If u are here by accident and u saw something what is better to be changed in my code please dm me! 
 
 <!--
 **lukaszs03/lukaszs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
