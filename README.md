@@ -1,7 +1,7 @@
 ### Hi 👋
 - 🌱 I’m currently learning javascript, python and django
 - If u are here by accident and u saw something what is better to be changed in my code please dm me! 
-- 📫 You can reach me on discord: Ukasz#9660
+- 📫 You can reach me on discord: ukaszx (Ukasz#9660)
 <!--
 **lukaszs03/lukaszs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
