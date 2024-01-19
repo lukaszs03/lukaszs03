@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🌱 I’m currently learning javascript, python and django
+- 🌱 I’m currently learning javascript, python and django, sql and some tester stuff.
 - If u are here by accident and u saw something what is better to be changed in my code please dm me! 
 - 📫 You can reach me on discord: ukaszx (Ukasz#9660)
 <!--
